@@ -3,8 +3,6 @@
 
 ![Menu](https://github.com/biell-lopes/Projeto_Estacionamento_Java/blob/main/ProjetoEstacionamento/37-12-22-113700.png)
 
-![Menu](https://github.com/biell-lopes/Projeto_Estacionamento_Java/blob/main/ProjetoEstacionamento/37-12-22-113700.png)
-
   
 # 👨🏻‍🏫 Professor  
  - Ackley Dias Will 
